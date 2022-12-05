@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dumoon
+- 👋 Hi, I’m @Dmitriy
 - 👀 I’m interested in html. css, js
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on js project team
