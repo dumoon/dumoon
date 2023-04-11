@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmitriy
-- 👀 I’m interested in html. css, js
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on js project team
+- 👀 I’m interested in java, QA 
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on Java project team
 - 📫 How to reach me - dy.zernov@gmail.com
 
 <!---
