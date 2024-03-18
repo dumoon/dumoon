@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmitriy
-- 👀 I’m interested in java, QA 
-- 🌱 I’m currently learning java, QA 
-- 💞️ I'm looking for cooperation in the team to create automated tests
+- 👀 I’m interested in python, java, QA 
+- 🌱 I’m currently learning python 
+- 💞️ I'm looking for cooperation in the team to create back-end
 - 📫 How to reach me - dy.zernov@gmail.com
 
 <!---
