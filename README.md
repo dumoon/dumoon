@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dmitriy
+- 👋 Hi, friend
 - 👀 I’m interested in python, java, QA 
 - 🌱 I’m currently learning python 
 - 💞️ I'm looking for cooperation in the team to create back-end
-- 📫 How to reach me - dy.zernov@gmail.com
+- 📫 How to reach me - gpt.team2@gmail.com
 
 <!---
 dumoon/dumoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
